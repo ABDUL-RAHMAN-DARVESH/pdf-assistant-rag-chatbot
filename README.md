@@ -62,6 +62,12 @@ Run the Streamlit app:
 3️⃣ Type a question related to the document.
 4️⃣ Get AI-powered responses!
 
+## 🔗 Live Demo
+
+**🌐 Checkout this PDF Assistant Chatbot website:** <br>
+https://pdf-assistant-rag-chatbot.streamlit.app/
+
+
 ## 🎨 Custom Styling
 The chatbot includes custom CSS styling to enhance the user experience, including:
 - 🎨 Styled buttons

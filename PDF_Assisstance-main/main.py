@@ -199,6 +199,6 @@ def initialize_session():
 st.markdown("---")
 st.markdown("""
     <div style='text-align: center'>
-        <p>Made with ❤️ by Farhan</p>
+        <p>Made with ❤️ by Abdul Rahman Darvesh</p>
     </div>
 """, unsafe_allow_html=True)

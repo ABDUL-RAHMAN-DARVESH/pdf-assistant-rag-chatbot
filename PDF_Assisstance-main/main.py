@@ -11,6 +11,9 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from dotenv import load_dotenv
 import tempfile
+import pypdf
+import pdfminer
+
 
 def initialize_session():
     st.session_state.chat_history = []
